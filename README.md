@@ -5,4 +5,4 @@ This repository egfr_inhibition related to the paper titled "Molecular Insights 
 
 The clustered_structure folder displays the pdb files obtained after clustering the simulation trajectories.
 
-The 
+The bounded structures folder shows the pdb files of EGFR_inhibitor complexes within range of 1 kcal/mol < PMF (kcal/mol) < 4 kcal/mol
